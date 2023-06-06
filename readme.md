@@ -18,3 +18,7 @@ Este es un proyecto simple de gestión de tareas utilizando React y Redux. Permi
 ## Cómo usarlo
 
 Después de instalar las dependencias, puedes iniciar el servidor de desarrollo ejecutando `npm run dev`. Luego, puedes abrir tu navegador en `http://127.0.0.1:5173/` para ver y interactuar con la aplicación.
+
+## Live Demo
+
+Puedes ver la aplicación en vivo en [http://www.tu-url-de-produccion.com](https://task-manager-peperiquelmee.netlify.app/).
